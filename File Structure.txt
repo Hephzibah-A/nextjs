@@ -1,0 +1,24 @@
+FILE STRUCTURE IN-DEPTH
+.next -> This is the build file where Next.js stores all the output files(compiled code, optimized assets).
+node_modules -> This folder holds all the npm packages the project needs.
+public -> This folder contains all the static files like images, fonts, or icons.
+src -> This is the main source code folder where your application lives. All your components, pages, and logic will usually go here.
+.gitignore -> Specifies which files and folders Git should ignore(node_modules , .next).
+eslint.config.ts -> Configuration file for eslint, which helps enforce code quality and consistency.
+next-env.d.ts -> A TypeScript declaration file that helps Next.js understand specific types used internally, like environment variables or file imports.
+next.config.ts -> Configuration file for Next.js where you can tweak various setings like redirects, rewrites, and more.
+package-lock.json -> locks down the exact version of dependencies to ensure consistency across different environments.
+package.json -> holds the project dependencies and metadata (like name, version, scripts).
+postcss.config.mjs -> Configuration file for PostCSS, which helps you process CSS (Tailwind or autoprefixing)
+tailwind.config.ts -> Configuration file for Tailwind CSS, where you can define your custom styles, colors, and other settings.
+tsconfig.json -> Configuration file for Typescript , defining how TypeScript should behave in your project.
+
+
+SPECIAL PAGES:
+Page.tsx -> This file represents a regular page in your app. It contains the UI and logic for what users will see when they visit a specific route in your application.
+
+Layout.tsx ->
+Template.tsx ->
+Not-Found.tsx ->
+Loading.tsx ->
+Error.tsx -> 
