@@ -17,7 +17,7 @@ tsconfig.json -> Configuration file for Typescript , defining how TypeScript sho
 SPECIAL PAGES:
 Page.tsx -> This file represents a regular page in your app. It contains the UI and logic for what users will see when they visit a specific route in your application.
 
-Layout.tsx ->
+Layout.tsx -> 
 Template.tsx ->
 Not-Found.tsx ->
 Loading.tsx ->
