@@ -8,8 +8,7 @@ A cute, aesthetic, and professional dashboard built with Next.js.
 - 📊 Interactive charts & stats
 - 🎨 Modern, pastel-themed UI
 - 🖥️ Responsive design
-- 🔒 Authentication ready
-- ⚡ Fast & lightweight
+
 
 ## 🚀 Getting Started
 
