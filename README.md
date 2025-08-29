@@ -17,7 +17,7 @@ I created this space to track my progress, document my understanding, and share 
 
 * **Next.js**: The star of the show! ⭐
 * **React**: The foundation for all things Next.js.⚛️
-* **JavaScript/TypeScript**: The languages I'll be using. 💻
+* **TypeScript**: The languages I'll be using. 💻
 
 ---
 
